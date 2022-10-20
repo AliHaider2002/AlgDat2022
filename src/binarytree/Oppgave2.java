@@ -1,3 +1,5 @@
+package binarytree;
+
 public class Oppgave2 {
 
     public static int min(int[] a) {
